@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name = "LocalUrl" value = "http://bs-local.com:45454/" />		
+		<Parameter name = "WebAddress" value = "https://bstackdemo.com" />		
+	</TestRunParameters>
+</RunSettings>
